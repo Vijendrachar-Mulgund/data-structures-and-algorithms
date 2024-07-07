@@ -1,4 +1,6 @@
-console.log('Hello from the JS File');
+console.log("Hello from the JS File");
+
+console.log("This parameter, ", this);
 
 // Sum of all numbers up to 'n' / Traditional for Loop method
 const sumUpto = (n) => {
